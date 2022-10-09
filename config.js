@@ -58,12 +58,12 @@ global.alivepic = `https://i.ibb.co/pf3qF34/8f039d97999d3ddbc2b928d7c78fc6a0.jpg
 
 global.ownername = " ѕυ∂∂α " //ur owner name
 global.owner = ['94704446814','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = 'sudda'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
+global.premium = ['94724749864','94724749864']
+global.botname = '👤ᵏⁱⁿᵍ ˢᵘᵈᵉᵉʳᵃ👤'
+global.ownername = 'ᵏⁱⁿᵍ ˢᵘᵈᵉᵉʳᵃ'
+global.group1 = 'https://chat.whatsapp.com/F70dDJFzw579hN9ZYYJrb5'
 global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.packname = '❎ˢᵘᵈᵈᵃ❎'
 global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
 global.monayawal = '100000'
 global.darahawal = '100'
